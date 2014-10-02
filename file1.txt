@@ -1,1 +1,1 @@
-This is the first file in my brand new repo.
+This is the first file in my brand new repo. Here I am making the required changes to file one.  Let's say I'm creating 'something cool'.
