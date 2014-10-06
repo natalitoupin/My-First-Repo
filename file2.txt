@@ -1,1 +1,1 @@
-This is my second file in my brand new repo. This was actually an 'uncool change'.
+This is my second file in my brand new repo. This was actually an 'uncool change'. I will be better at putting commit messages than the engineers I work with, so that's good.
