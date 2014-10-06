@@ -1,1 +1,2 @@
 I probably should have thought the naming convention through a little more.  I can't use tab. Smiley faces shouldn't be used so I'm going to get rid of that.
+This is the second file of this commit I changed.  Let's see if I can make a separate commit message.
